@@ -34,7 +34,7 @@ Include images like:
 ## 📌 How to Reproduce
 
 1. Clone the repo
-2. Follow steps in `implementation-steps.md` under each lab
+2. Follow steps 
 3. Requires: Azure trial account or Windows Server VM
 
 ---
